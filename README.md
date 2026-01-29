@@ -46,15 +46,3 @@ The following visualizations were created to analyze different dimensions of the
 Each visualization was chosen to support analytical interpretation rather than decoration.
 
 
-
-## Repository Structure  
-├── data/
-│ └── happiness_2017.csv
-├── notebooks/
-│ └── EDA_and_Visualizations.ipynb
-├── plots/
-│ └── visualizations.png
-└── README.md
-
-
-
