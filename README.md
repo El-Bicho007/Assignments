@@ -47,5 +47,14 @@ Each visualization was chosen to support analytical interpretation rather than d
 
 
 
-## 📂 Repository Structure  
+## Repository Structure  
+├── data/
+│ └── happiness_2017.csv
+├── notebooks/
+│ └── EDA_and_Visualizations.ipynb
+├── plots/
+│ └── visualizations.png
+└── README.md
+
+
 
